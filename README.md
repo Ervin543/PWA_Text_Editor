@@ -12,6 +12,15 @@ This Repo has has a text editor that runs in the browser.
 
 # Images
 
+![This Is the database](images/database.PNG)
+![This Is the editor](images/editor.PNG)
+![This Is the htmlroutes](images/htmlroutes.PNG)
+![This Is the index](images/index.PNG)
+![This Is the install](images/install.PNG)
+![This Is the server](images/server.PNG)
+![This Is the srcsw](images/srcsw.PNG)
+![This Is the webpackconfig](images/webpackconfig.PNG)
+
 # Heroku Link
 
 https://pwa-text-editor-12.herokuapp.com/
